@@ -1,0 +1,592 @@
+fileFormatVersion: 2
+guid: 0ad043c1b07ae1f449bdadcf8f52817f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8123197322949033136
+    second: neck_panther
+  - first:
+      213: -225478216395809275
+    second: stomack_panther
+  - first:
+      213: 7408981801258977036
+    second: panther-02_2
+  - first:
+      213: 8323267501933491360
+    second: panther-02_3
+  - first:
+      213: 2322827115188740501
+    second: head_panther
+  - first:
+      213: -9151353465890454095
+    second: panther-02_5
+  - first:
+      213: -8851950512242455655
+    second: panther-02_6
+  - first:
+      213: -4950062905244219592
+    second: panther-02_7
+  - first:
+      213: -4094640058247479519
+    second: panther-02_8
+  - first:
+      213: -3057219464566783146
+    second: panther-02_9
+  - first:
+      213: -7502990097714215004
+    second: panther-02_10
+  - first:
+      213: -6643633845752459406
+    second: panther-02_11
+  - first:
+      213: 466671816558566647
+    second: panther-02_12
+  - first:
+      213: 5607648386758150827
+    second: panther-02_13
+  - first:
+      213: 3711166662820292946
+    second: panther-02_14
+  - first:
+      213: 7921400906387078436
+    second: panther-02_15
+  - first:
+      213: -5636534611607000659
+    second: panther-02_16
+  - first:
+      213: -75324160589910886
+    second: panther-02_17
+  - first:
+      213: -8142824091041659683
+    second: panther-02_18
+  - first:
+      213: 4767850583117779586
+    second: panther-02_19
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: neck_panther
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 2994
+        width: 1191
+        height: 1215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02df110c48e482e49955c4281a25c832
+      internalID: -8123197322949033136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stomack_panther
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 2850
+        width: 3789
+        height: 1503
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8aa3f432408d164db1f408d54dcc1a2
+      internalID: -225478216395809275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panther-02_2
+      rect:
+        serializedVersion: 2
+        x: 5936
+        y: 3768
+        width: 762
+        height: 492
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c51f5bb8402094485e2bc94cd4d51c
+      internalID: 7408981801258977036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panther-02_3
+      rect:
+        serializedVersion: 2
+        x: 6995
+        y: 3856
+        width: 809
+        height: 560
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb2a44aa91d45c40bada3ea1ef79784
+      internalID: 8323267501933491360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head_panther
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 2017
+        width: 1152
+        height: 1129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c45c7a1a0c69fa4a88790389770efa4
+      internalID: 2322827115188740501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panther-02_5
+      rect:
+        serializedVersion: 2
+        x: 5651
+        y: 1522
+        width: 1387
+        height: 1527
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044d8a1681fdf9a4781288db972e653f
+      internalID: -9151353465890454095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panther-02_6
+      rect:
+        serializedVersion: 2
+        x: 6393
+        y: 3045
+        width: 790
+        height: 578
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8d0f78486fcb84a8cd5c726f1d798c
+      internalID: -8851950512242455655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panther-02_7
+      rect:
+        serializedVersion: 2
+        x: 7569
+        y: 2889
+        width: 301
+        height: 886
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a983cb3a4f20c1c43bdae1571e19ea2a
+      internalID: -4950062905244219592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panther-02_8
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1111
+        width: 934
+        height: 1797
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1d65b73447d8a44808c86f24f7a336
+      internalID: -4094640058247479519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panther-02_9
+      rect:
+        serializedVersion: 2
+        x: 2631
+        y: 1092
+        width: 1258
+        height: 1613
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f3654edc3ddc0428795d9dbadffd4f
+      internalID: -3057219464566783146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panther-02_10
+      rect:
+        serializedVersion: 2
+        x: 4612
+        y: 1189
+        width: 934
+        height: 1801
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ae030311cb67d49bf691d3a6e52e30
+      internalID: -7502990097714215004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panther-02_11
+      rect:
+        serializedVersion: 2
+        x: 6784
+        y: 2279
+        width: 793
+        height: 559
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b157ce82ab47446a31bef8412caa56
+      internalID: -6643633845752459406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panther-02_12
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 408
+        width: 723
+        height: 617
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cad57aeabfba504d917dbb55b299e5a
+      internalID: 466671816558566647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panther-02_13
+      rect:
+        serializedVersion: 2
+        x: 3116
+        y: 318
+        width: 363
+        height: 797
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3bd48afa9bf254fbc2e025951bd357
+      internalID: 5607648386758150827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panther-02_14
+      rect:
+        serializedVersion: 2
+        x: 4256
+        y: 498
+        width: 719
+        height: 613
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e158ec1fb6076a043b2a43606dc98d8b
+      internalID: 3711166662820292946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panther-02_15
+      rect:
+        serializedVersion: 2
+        x: 6214
+        y: 268
+        width: 410
+        height: 437
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a98e5ed85bb86d40ae757e027ed58e2
+      internalID: 7921400906387078436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panther-02_16
+      rect:
+        serializedVersion: 2
+        x: 6694
+        y: 615
+        width: 344
+        height: 809
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1639169aadadfae409cbd1e91d007254
+      internalID: -5636534611607000659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panther-02_17
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 209
+        width: 527
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaacc57da273f5b4588f086f8df8c665
+      internalID: -75324160589910886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panther-02_18
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 88
+        width: 433
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f5d09ca9b65a1419f2ceb065a522b5
+      internalID: -8142824091041659683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panther-02_19
+      rect:
+        serializedVersion: 2
+        x: 3999
+        y: 150
+        width: 527
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab17a91bb5f778444ae268c1836ca485
+      internalID: 4767850583117779586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c8e326431eb79464e874009a91cc7109
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
